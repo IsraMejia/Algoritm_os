@@ -1,3 +1,16 @@
 Tarea en equipo:
 Investigar el tema de seguridad completo lo que viene del temario y poner ejemplos de 
 vulnerabilidades resientes
+
+Ejercicio Nuevo: con el 9 
+una funcion que imprime que estan durmiendo y al momento de estar durmiendo paramos el 
+proceso hijo los segundos que sea el nieto. Por ejemplo: el nieto 2 , duerme 2 segundos.
+
+Ejercicio 11 <---------Tarea evaluable
+    Toma como base el ejercicio 9 pero ahora se hace una funcion que :
+    Al nieto 1.1 hace la tabla de multiplicar de 1 en 5 primeras iteraciones
+    Al nieto 1.2 hace la tabla de multiplicar de 1 en 5 ultimas iteraciones
+
+    Al padre 2 sus hijos harían:
+    Al nieto 2.1 hace la tabla de multiplicar de 2 en 5 primeras iteraciones
+    Al nieto 2.2 hace la tabla de multiplicar de 2 en 5 ultimas iteraciones
