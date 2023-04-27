@@ -1,0 +1,3 @@
+Tarea en equipo:
+Investigar el tema de seguridad completo lo que viene del temario y poner ejemplos de 
+vulnerabilidades resientes
