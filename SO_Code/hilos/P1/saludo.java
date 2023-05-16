@@ -11,5 +11,8 @@ public class Saludo extends Thread{
     public void run (){
         System.out.println(getName() +" Hola Mundo " + LocalTime.now());
         System.out.println("Soy el hilo: "+ getName()+ LocalTime.now());
+        System.out.println("Termine "+ getName() + "\t Tiempo" + LocalTime.now( ));
+
+        System.out.println("");
     }
 }
