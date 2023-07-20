@@ -1,0 +1,3 @@
+Este proyecto crea dos hilos A y B 
+El main es dueño de los dos hilos , y de un arreglo 
+Este arreglo lo toma del main 
